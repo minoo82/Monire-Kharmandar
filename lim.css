@@ -1,0 +1,73 @@
+body {
+ background-image:url("imagine/background.jpg");
+ background-size: cover;
+}
+
+.contain {
+  background: rgba(0, 0, 5, 0.5);
+  width: 1000px;
+  height: 650px ;
+  border-radius: 10px ;
+  margin: auto;
+}
+.center {
+  margin-left: 100px ;
+}
+
+.logo {
+  width:200px ;
+  margin-top: 100px ;
+  margin-left: 320px ;
+}
+
+#testo {
+  color: #32CD32 ;
+  font-family: sans-serif;
+  font-size: 25px ;
+text-align: center;
+}
+
+div >h1 {
+ color:#32CD32 ;
+ text-align: center;
+}
+
+.sceili {
+  background-color: #32CD32 ;
+  width: 800px ;
+  height: 30px ;
+  text-align: center;
+}
+
+#click {
+  margin-top: 5px;
+}
+
+section {
+ color:white ;
+}
+
+#a {
+ font-size: 20px ;
+}
+
+.first {
+  background-color: orange ;
+  border-radius: 5px ;
+  width: 300px ;
+  height: 20px ;
+}
+
+.second {
+  background-color: #32CD32 ;
+  border-radius: 5px ;
+  width: 480px ;
+  height: 20px ;
+}
+
+.third {
+  background-color: red ;
+  border-radius: 5px ;
+  width: 150px ;
+  height:20px ;
+}
